@@ -1,7 +1,12 @@
 # LightningBug271 
 > "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. p. 20.
-
-Random nonbinary coder (read pronouns please) (gender is somewhat inaccurate but its close enough (umbrella terms amirte))
+<h2>Gender</h2>
+Nonbinary<br/>
+<h2>Coding Languages</h2>
+I know how to use Python.<br/>
+I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
+<h3>Markup Languages</h3>
+I know HTML and Markdown.
 <!--
 **LightningBug271/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
