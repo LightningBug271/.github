@@ -9,7 +9,6 @@ I'm Nonbinary.
 
 <h2>Coding Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightningBug271"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P"/>
 I know how to use Python and Scratch.<br/>
 I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
 I want to learn C++ and C#, as well as Java and GDScript.
