@@ -1,2 +1,2 @@
-# LightningBug271's Personal Account Github
+# LightningBug271
 ### There's nothing much here yet...
