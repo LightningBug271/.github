@@ -5,6 +5,7 @@ Nonbinary<br/>
 <h2>Coding Languages</h2>
 I know how to use Python.<br/>
 I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
+I want to learn C++ and C#, as well as Java and GDScript.
 <h3>Markup Languages</h3>
 I know HTML and Markdown.
 <!--
