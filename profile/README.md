@@ -9,6 +9,7 @@ I'm also learning VBScript and Javascript (also JScript but that's just Microsof
 I want to learn C++ and C#, as well as Java and GDScript.
 <h3>Markup Languages</h3>
 I know HTML and Markdown.
+<!-- send Programmer socks--!>
 <!--
 **LightningBug271/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
