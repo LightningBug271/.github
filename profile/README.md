@@ -12,7 +12,11 @@ I know how to use Python and Scratch.<br/>
 I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
 I want to learn C++ and C#, as well as Java and GDScript.
 <h3>Markup Languages</h3>
-I know HTML and Markdown.
+I know HTML and Markdown.<br/>
+I want to learn XML.
+<h2>Operating System</h2>
+Currently, Windows 10 & 11.<br/>
+I want to use Ubuntu and Debian eventually as well.
 <!-- send Programmer socks please --!>
 <!--
 **LightningBug271/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
