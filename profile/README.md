@@ -17,6 +17,9 @@ I want to learn XML.
 <h2>Operating System</h2>
 Currently, Windows 10 & 11.<br/>
 I want to use Ubuntu and Debian eventually as well.
+
+>Android isn't mentioned because I don't use Android for coding.
+
 <!-- send Programmer socks please --!>
 <!--
 **LightningBug271/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
