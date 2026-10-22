@@ -2,8 +2,9 @@
 > "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. p. 20.
 <h2>Gender</h2>
 Nonbinary<br/>
+Will be removed if I'm harassed about this.
 <h2>Coding Languages</h2>
-I know how to use Python.<br/>
+I know how to use Python and Scratch.<br/>
 I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
 I want to learn C++ and C#, as well as Java and GDScript.
 <h3>Markup Languages</h3>
