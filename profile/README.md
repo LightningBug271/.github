@@ -1,10 +1,11 @@
 # LightningBug271 
 > "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. p. 20.
 <h2>Gender</h2>
-I'm Nonbinary.
 
 > [!NOTE]
 > This will be removed if I'm harassed about this because I know that there are bigots out there and I don't wanna deal with them.
+
+I'm Nonbinary.
 
 <h2>Coding Languages</h2>
 I know how to use Python and Scratch.<br/>
