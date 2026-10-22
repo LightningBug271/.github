@@ -8,7 +8,7 @@
 I'm Nonbinary. -->
 
 <h2>Coding Languages</h2>
-<img src = '[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical)'/>
+<img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical'/>
 I know how to use Python and Scratch.<br/>
 I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
 I want to learn C++ and C#, as well as Java and GDScript.
