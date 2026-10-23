@@ -1,5 +1,5 @@
 # LightningBug271 
-> "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. p. 20.
+> "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. pg. 20.
 <!-- <h2>Gender</h2> 
 
 > [!NOTE]
@@ -19,6 +19,12 @@ I want to learn XML.
 <h2>Operating System</h2>
 Currently, I use Windows 10 & 11.<br/>
 I want to use Ubuntu and Debian eventually as well.
+
+<h2>Random Quotes I add for no reason</h2>
+
+>I bet it all feels pointless, don’t it? It’s almost an insult that the earths still turnin’. But don’t give up… even if you gotta just go through the motions. Trying to find something, anything in them, that means a little something. - Boom, Gerson [Robert F. "Toby" Fox].
+
+>If you pirate a game, then enjoy it, spread word about it and get someone else to buy it. Even the more business-minded people around can recognize that if you pirate a game, then enjoy it, spread word about it and get someone else to buy it, that's at worst an equal trade, at best an additional sale that wouldn't have happened if you hadn't pirated it. - Patala, Arsi "Hakita".
 
 <!-- send Programmer socks please --!>
 <!--
