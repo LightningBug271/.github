@@ -11,7 +11,7 @@ I'm Nonbinary. -->
 <img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical'/>
 I know how to use Python and Scratch.<br/>
 I'm also learning VBScript and Javascript (also JScript but that's just Microsoft's Javascript).<br/>
-I want to learn C++ and C#, as well as Java and GDScript.
+I want to learn C++ and C#, as well as Java, GDScript and PHP.
 <h3>Markup Languages</h3>
 I know HTML and Markdown.<br/>
 I want to learn XML.
