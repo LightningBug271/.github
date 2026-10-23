@@ -5,7 +5,8 @@
 > [!NOTE]
 > This will be removed if I'm harassed about this because I know that there are bigots out there and I don't wanna deal with them.
 
-I'm Nonbinary. -->
+I'm Nonbinary.<br/>
+Pronouns: He/They -->
 
 <h2>Coding Languages</h2>
 <img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=4&theme=radical'/>
@@ -16,10 +17,8 @@ I want to learn C++ and C#, as well as Java, GDScript and PHP.
 I know HTML and Markdown.<br/>
 I want to learn XML.
 <h2>Operating System</h2>
-Currently, Windows 10 & 11.<br/>
+Currently, I use Windows 10 & 11.<br/>
 I want to use Ubuntu and Debian eventually as well.
-
->Android isn't mentioned because I don't use Android for coding.
 
 <!-- send Programmer socks please --!>
 <!--
