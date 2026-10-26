@@ -1,13 +1,11 @@
 # LightningBug271 
 > "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. pg. 20.
 <h2>About Me</h2>
-<!-- <h3>Gender</h3> 
-
+<!-- <h3>Gender</h3>
 > [!NOTE]
 > This will be removed if I'm harassed about this because I know that there are bigots out there and I don't wanna deal with them.
-
-I'm Nonbinary.<br/> 
-Pronouns: He/They
+I'm Nonbinary.<br/> -->
+<h4>Pronouns: He/They</h4> 
 
 <h3>Coding Languages</h3>
 <img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=11&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=11&theme=radical'/>
