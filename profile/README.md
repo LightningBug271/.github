@@ -7,8 +7,7 @@
 > This will be removed if I'm harassed about this because I know that there are bigots out there and I don't wanna deal with them.
 
 I'm Nonbinary.<br/> 
---!> 
-Pronouns: He/They
+Pronouns: He/They -->
 
 <h3>Coding Languages</h3>
 <img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=11&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=11&theme=radical'/>
