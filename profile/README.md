@@ -1,14 +1,15 @@
 # LightningBug271 
 > "In order to make a man or a boy covet a thing, it is only necessary to make that thing difficult to obtain." - Twain, Mark. The Adventures of Tom Sawyer. pg. 20.
-<!-- <h2>Gender</h2> 
+<h2>About Me</h2>
+<!-- <h3>Gender</h3> 
 
 > [!NOTE]
 > This will be removed if I'm harassed about this because I know that there are bigots out there and I don't wanna deal with them.
 
-I'm Nonbinary.<br/>
-Pronouns: He/They -->
+I'm Nonbinary.<br/> -->
+Pronouns: He/They
 
-<h2>Coding Languages</h2>
+<h3>Coding Languages</h3>
 <img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=11&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=11&theme=radical'/>
 I know how to use Python and Scratch.<br/>
 I'm also learning VBScript, Javascript, and JScript.<br/>
@@ -16,7 +17,7 @@ I want to learn C++ and C#, as well as Java, GDScript and PHP.
 <h3>Markup Languages</h3>
 I know HTML and Markdown.<br/>
 I want to learn XML.
-<h2>Operating System</h2>
+<h3>Operating System</h3>
 Currently, I use Windows 10 & 11.<br/>
 I want to use Ubuntu and Debian eventually as well.
 
