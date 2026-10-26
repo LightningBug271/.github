@@ -6,7 +6,8 @@
 > [!NOTE]
 > This will be removed if I'm harassed about this because I know that there are bigots out there and I don't wanna deal with them.
 
-I'm Nonbinary.<br/> -->
+I'm Nonbinary.<br/>
+--> 
 Pronouns: He/They
 
 <h3>Coding Languages</h3>
