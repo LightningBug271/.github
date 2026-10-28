@@ -10,7 +10,7 @@ I'm Nonbinary.<br/> -->
 <h3>Coding Languages</h3>
 <img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=14&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=14&theme=radical'/>
 I know how to use Python and Scratch.<br/>
-I'm also learning VBScript, Javascript, and JScript.<br/>
+I'm also learning VBScript, Javascript, and Powershell.<br/>
 I want to learn C++ and C#, as well as Java, GDScript and PHP.
 <h3>Markup Languages</h3>
 I know HTML and Markdown.<br/>
