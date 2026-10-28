@@ -8,7 +8,7 @@ I'm Nonbinary.<br/> -->
 <h4>Pronouns: He/They</h4> 
 
 <h3>Coding Languages</h3>
-<img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=13&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=13&theme=radical'/>
+<img src = 'https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=14&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LightningBug271&langs_count=14&theme=radical'/>
 I know how to use Python and Scratch.<br/>
 I'm also learning VBScript, Javascript, and JScript.<br/>
 I want to learn C++ and C#, as well as Java, GDScript and PHP.
